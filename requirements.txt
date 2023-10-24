@@ -1,0 +1,3 @@
+pip install OpenAI == 0.28.1
+pip install LangChain == 0.0.313
+pip install streamlit == 1.27.2
